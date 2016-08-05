@@ -1,0 +1,34 @@
+_repo: The-Christian--A-Story_8407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, Thomas Henry Hall, Sir
+    - Caine, T. Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
+description: One of the most popular authors of the Edwardian era, Sir Thomas Henry
+  Hall Caine wrote a number of stories, novels, and plays that were eagerly lapped
+  up by an adoring public, despite the fact that his politics and personal life were
+  somewhat out of step with the strict mores and manners of the day. In The Christian,
+  Caine tackles a number of sensitive issues about the practice of religion in the
+  engaging and entertaining style that made him famous.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Christian: A Story'
+url: http://www.gutenberg.org/ebooks/8407
