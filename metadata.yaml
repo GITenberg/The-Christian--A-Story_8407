@@ -1,5 +1,8 @@
 _repo: The-Christian--A-Story_8407
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caine, Hall, Sir
@@ -17,6 +20,8 @@ description: One of the most popular authors of the Edwardian era, Sir Thomas He
   somewhat out of step with the strict mores and manners of the day. In The Christian,
   Caine tackles a number of sensitive issues about the practice of religion in the
   engaging and entertaining style that made him famous.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8407#The-Christian--A-Story
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
